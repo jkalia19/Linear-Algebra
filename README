@@ -1,3 +1,4 @@
 The Linear-Algebra Library is Coded version of basic Linear Algebraic Functions in Python. 
 scratch.py is the basic layan code for main operations.
 Other files, as the name defines, are the detailed processes of those particular functions.
+Scratch.py is the filter-less and condition-less verion of other files.
